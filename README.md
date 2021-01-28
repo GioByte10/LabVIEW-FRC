@@ -1,2 +1,2 @@
 # LabVIEW-FRC
-Codes for the FIRST Robotics Competition Seasons
+Code for the FIRST Robotics Competition's different seasons
